@@ -14,7 +14,7 @@ class DashboardAnimationPage extends StatefulWidget {
 }
 
 class _DashboardAnimationPageState extends State<DashboardAnimationPage> {
-  var progress = 0.1;
+  var progress = 0.0;
 
   @override
   Widget build(BuildContext context) {
